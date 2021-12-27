@@ -25,7 +25,7 @@ switch(mes){        //inicio da chave
     case 12:
         console.log("Quarto trimestre")
     
-    //na ultima opção não precida do break
+    //na ultima opção não precisa do break
 
     default:
         console.log("Mês invalido")
